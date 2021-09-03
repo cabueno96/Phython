@@ -1,2 +1,2 @@
-# Phython
+# Python-Lab
 I will use this repository to develop my skills on python programming language
